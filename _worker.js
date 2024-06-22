@@ -2,7 +2,7 @@
 import { connect } from 'cloudflare:sockets';
 //伪装主页设置
 let token= 'vless';
-let pdomain = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5RLR5OTW6-UOpdFxx6WdTBGWI7ijDtDl59ucHmWGG7XTP978-Ke4xNOw&s=10';
+let pdomain = 'www.pornhub.com';
 //uuid设置
 let userID = 'b5e357e6-2b14-456e-9a44-8b203257271c';
 //订阅器设置
