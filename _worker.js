@@ -2,7 +2,7 @@
 import { connect } from 'cloudflare:sockets';
 //伪装主页设置
 let token= 'vless';
-let pdomain = 'www.bing.com';
+let pdomain = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5RLR5OTW6-UOpdFxx6WdTBGWI7ijDtDl59ucHmWGG7XTP978-Ke4xNOw&s=10';
 //uuid设置
 let userID = 'b5e357e6-2b14-456e-9a44-8b203257271c';
 //订阅器设置
@@ -11,7 +11,7 @@ let sub = 'vless-4ca.pages.dev';
 let subconverter = 'url.v1.mk';
 let subconfig = 'https://raw.githubusercontent.com/JustLagom/WorkerSub/main/urltestconfig.ini';
 //CF网络穿透设置 一:proxyip，二:SOCKS5
-let proxyIP = 'cdn.vultr.loseyourip.com';
+let proxyIP = '66.135.5.180';
 let socks5Address = '';
 
 if (!isValidUUID(userID)) {
