@@ -4,7 +4,7 @@ import { connect } from 'cloudflare:sockets';
 let token= 'vless';
 let pdomain = 'www.pornhub.com';
 //uuid设置
-let userID = 'b5e357e6-2b14-456e-9a44-8b203257271c';
+let userID = 'none';
 //订阅器设置
 let RproxyIP = 'true';
 let sub = 'vless-4ca.pages.dev';
